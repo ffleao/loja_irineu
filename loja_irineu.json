@@ -1,0 +1,90 @@
+{
+    "eletronicos": {
+        "notebooks": [
+            {
+                "marca": "Acer",
+                "modelo": "Aspire 5",
+                "valor": 3.100,
+                "disponibilidade": "Sim",
+                "cores": ["Preto", "Cinza"],
+                "memoria": "500GB"
+            },
+
+            {
+                "marca": "Lenovo",
+                "modelo": "IdealPAd",
+                "valor": 2.600,
+                "disponibilidade": "Sim",
+                "cores": ["Preto", "Branco"],
+                "memoria": "1TB"
+            }
+
+            {
+                "marca": "Dell",
+                "modelo": "Inspiron 15",
+                "valor": 3.500,
+                "disponibilidade": "Nao",
+                "cores": ["Cinza", "Prata"],
+                "memoria": "500GB"
+            }
+        ],
+
+        "celulares": [
+            {
+                "marca": "Apple",
+                "modelo": "iPhone 15",
+                "valor": 2.800,
+                "disponibilidade": "Nao",
+                "cores": ["Vermelho", "Prata"],
+                "memoria": "128GB"
+            }
+
+            {
+                "marca": "Xiaomi",
+                "modelo": "Redmi Note 13",
+                "valor": 1.800,
+                "disponibilidade": "Sim",
+                "cores": ["Preto", "Cinza"],
+                "memoria": "256GB"
+            }
+
+            {
+                "marca": "Samsung",
+                "modelo": "Galaxy S23",
+                "valor": 2.200,
+                "disponibilidade": "Sim",
+                "cores": ["Preto", "Azul"],
+                "memoria": "256GB"
+            }
+        ],
+
+        "acessorios": [
+            {
+                "marca": "Samsung",
+                "modelo": "HD Externo Basics",
+                "valor": 480,
+                "disponibilidade": "Sim",
+                "cores": ["Cinza", "Prata"],
+                "memoria": "1TB"
+            }
+
+            {
+                "marca": "SanDisk",
+                "modelo": "Pen Drive Cruzer Blade",
+                "valor": 150,
+                "disponibilidade": "Nao",
+                "cores": ["Preto"],
+                "memoria": "64GB"
+            }
+
+            {
+                "marca": "Kingston",
+                "modelo": "SSD NV2",
+                "valor": 280,
+                "disponibilidade": "Nao",
+                "cores": ["Preto"],
+                "memoria": "256GB"
+            }
+        ]
+    }
+}
